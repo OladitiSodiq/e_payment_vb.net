@@ -1,0 +1,536 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Result
+</name>
+</assembly>
+<members>
+<member name="T:Result.ProjectDataSet.AcceptanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.adminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.AdmissionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DevelopmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.GraduationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.IncidentalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.MatriculationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.MedicalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.ProjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.State_UnionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.StudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.SUGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.TranscriptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.AcceptanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.adminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.AdmissionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.DevelopmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.GraduationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.IncidentalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.MatriculationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.MedicalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.ProjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.State_UnionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.StudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.SUGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.TranscriptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Result.ProjectDataSet.AcceptanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.adminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.AdmissionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.DepartmentalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.DevelopmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.GraduationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.IncidentalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.MatriculationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.MedicalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.ProjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.State_UnionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.StudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.SUGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet.TranscriptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Result.ProjectDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.AcceptanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.adminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.AdmissionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.DepartmentalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.DevelopmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.GraduationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.IncidentalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.MatriculationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.MedicalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.ProjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.State_UnionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.StudentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.SUGTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Result.ProjectDataSetTableAdapters.TranscriptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._04">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._04_28_47___US_Dollar_Bills_web">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._06">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._07">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._41o7cbWjCkL__SL160_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources._SELECT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.admin_shapeless">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.admin_shapeless1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.avail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.codes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.course">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.dept1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.dev1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.dev11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.development">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.ds">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.E">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.E_PAY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.einc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.epay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.epoy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.form">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.Inc1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.Incidental">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.jk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.login_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.LOGO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.MATR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.matri">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.matric1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.md">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.med1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.motosel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.paper7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.Penguins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.Proj1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.RECE2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.RECEIPT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.ref">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.reg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.sd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.search1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.search2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.su1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.sug1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.titles">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.trans">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.trans1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.usernam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.username">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Result.My.Resources.Resources.welcome">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Result.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

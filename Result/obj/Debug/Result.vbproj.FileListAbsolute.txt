@@ -1,0 +1,272 @@
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\bin\Debug\Result.exe.config
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\bin\Debug\Result.exe
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\bin\Debug\Result.pdb
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\bin\Debug\Result.xml
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.Form1.resources
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.Resources.resources
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.exe
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.xml
+C:\Users\SIREBLACK\AppData\Local\Temporary Projects\Result\obj\Debug\Result.pdb
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\bin\Debug\Result.exe.config
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.exe
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.xml
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.pdb
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\bin\Debug\Result.exe
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\bin\Debug\Result.pdb
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\bin\Debug\Result.xml
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.Login.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.Resources.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.AdminHome.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.Password.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.Username.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.Exam.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.AddUser.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.search.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.examcom.resources
+C:\Users\SIREBLACK\Documents\Visual Studio 2012\Projects\Result\Result\obj\Debug\Result.input.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\bin\Debug\Result.exe.config
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.exe
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.xml
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.pdb
+C:\Users\SIREBLACK\Documents\safe\Result\Result\bin\Debug\Result.exe
+C:\Users\SIREBLACK\Documents\safe\Result\Result\bin\Debug\Result.pdb
+C:\Users\SIREBLACK\Documents\safe\Result\Result\bin\Debug\Result.xml
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.AddUser.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.Exam.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.examcom.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.input.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.Login.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.Resources.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.AdminHome.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.Password.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.search.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.Username.resources
+C:\Users\SIREBLACK\Documents\safe\Result\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+E:\Result\Result\bin\Debug\Result.exe.config
+E:\Result\Result\obj\Debug\Result.exe
+E:\Result\Result\obj\Debug\Result.xml
+E:\Result\Result\obj\Debug\Result.pdb
+E:\Result\Result\bin\Debug\Result.exe
+E:\Result\Result\bin\Debug\Result.pdb
+E:\Result\Result\bin\Debug\Result.xml
+E:\Result\Result\obj\Debug\Result.AddUser.resources
+E:\Result\Result\obj\Debug\Result.CourseReg.resources
+E:\Result\Result\obj\Debug\Result.Exam.resources
+E:\Result\Result\obj\Debug\Result.examcom.resources
+E:\Result\Result\obj\Debug\Result.input.resources
+E:\Result\Result\obj\Debug\Result.Login.resources
+E:\Result\Result\obj\Debug\Result.Resources.resources
+E:\Result\Result\obj\Debug\Result.AdminHome.resources
+E:\Result\Result\obj\Debug\Result.NewStudent.resources
+E:\Result\Result\obj\Debug\Result.Password.resources
+E:\Result\Result\obj\Debug\Result.search.resources
+E:\Result\Result\obj\Debug\Result.Username.resources
+E:\Result\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\Secure\Result\Result\bin\Debug\Result.exe.config
+C:\Users\Matthew\Desktop\Secure\Result\Result\obj\Debug\Result.exe
+C:\Users\Matthew\Desktop\Secure\Result\Result\obj\Debug\Result.xml
+C:\Users\Matthew\Desktop\Secure\Result\Result\obj\Debug\Result.pdb
+C:\Users\User\Desktop\Result\Result\bin\Debug\Result.exe.config
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.exe
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.xml
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.pdb
+C:\Users\User\Desktop\Result\Result\bin\Debug\Result.exe
+C:\Users\User\Desktop\Result\Result\bin\Debug\Result.pdb
+C:\Users\User\Desktop\Result\Result\bin\Debug\Result.xml
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.AddUser.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.examcom.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.Login.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.Resources.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.Password.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.search.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.Username.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.MDIParent1.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\User\Desktop\Result\Result\obj\Debug\Result.last.resources
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.exe.config
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.exe
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.xml
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.pdb
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.exe
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.pdb
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.xml
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.AddUser.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.examcom.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.Login.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.MDIParent1.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.Resources.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.Password.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.last.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.search.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.Username.resources
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.exe.manifest
+C:\Users\User\Desktop\Result - Copy\Result\bin\Debug\Result.application
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.exe.manifest
+C:\Users\User\Desktop\Result - Copy\Result\obj\Debug\Result.application
+C:\Users\User\Desktop\result\Result\bin\Debug\Result.exe.manifest
+C:\Users\User\Desktop\result\Result\bin\Debug\Result.application
+C:\Users\User\Desktop\result\Result\obj\Debug\Result.exe.manifest
+C:\Users\User\Desktop\result\Result\obj\Debug\Result.application
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.exe.config
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.exe
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.xml
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.pdb
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.exe.manifest
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.application
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.exe
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.pdb
+C:\Users\User\Desktop\project\Result\bin\Debug\Result.xml
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.AddUser.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.examcom.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.Login.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.MDIParent1.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.Resources.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.Password.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.last.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.search.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.Username.resources
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.exe.manifest
+C:\Users\User\Desktop\project\Result\obj\Debug\Result.application
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.exe.config
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.exe
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.xml
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.pdb
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.exe.manifest
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.application
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.exe
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.pdb
+C:\Users\User\Desktop\e payment\Result\bin\Debug\Result.xml
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.AddUser.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.examcom.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.Login.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.MDIParent1.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.Resources.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.Password.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.last.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.search.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.Username.resources
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.exe.manifest
+C:\Users\User\Desktop\e payment\Result\obj\Debug\Result.application
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.exe.config
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.exe
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.xml
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.pdb
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.exe.manifest
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.application
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.exe
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.pdb
+C:\Users\Matthew\app\e payment - Copy (2)\Result\bin\Debug\Result.xml
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.AddUser.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.examcom.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.Login.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.Resources.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.Password.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.last.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.search.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.Username.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.exe.manifest
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.application
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.SplashScreen1.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.ADDITION.resources
+C:\Users\Matthew\app\e payment - Copy (2)\Result\obj\Debug\Result.Admin.resources
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.exe.config
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.exe
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.xml
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.pdb
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.exe.manifest
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.application
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.exe
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.pdb
+C:\Users\Matthew\app\e payment - C\Result\bin\Debug\Result.xml
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.ADDITION.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.AddUser.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.Admin.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.examcom.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.Login.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.Resources.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.last.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.search.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.SplashScreen1.resources
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.exe.manifest
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.application
+C:\Users\Matthew\app\e payment - C\Result\obj\Debug\Result.LoginForm1.resources
+F:\e payment - C\Result\bin\Debug\Result.exe.config
+F:\e payment - C\Result\obj\Debug\Result.exe
+F:\e payment - C\Result\obj\Debug\Result.xml
+F:\e payment - C\Result\obj\Debug\Result.pdb
+F:\e payment - C\Result\bin\Debug\Result.exe.manifest
+F:\e payment - C\Result\bin\Debug\Result.application
+F:\e payment - C\Result\bin\Debug\Result.exe
+F:\e payment - C\Result\bin\Debug\Result.pdb
+F:\e payment - C\Result\bin\Debug\Result.xml
+F:\e payment - C\Result\obj\Debug\Result.ADDITION.resources
+F:\e payment - C\Result\obj\Debug\Result.AddUser.resources
+F:\e payment - C\Result\obj\Debug\Result.Admin.resources
+F:\e payment - C\Result\obj\Debug\Result.CourseReg.resources
+F:\e payment - C\Result\obj\Debug\Result.examcom.resources
+F:\e payment - C\Result\obj\Debug\Result.Login.resources
+F:\e payment - C\Result\obj\Debug\Result.LoginForm1.resources
+F:\e payment - C\Result\obj\Debug\Result.Resources.resources
+F:\e payment - C\Result\obj\Debug\Result.NewStudent.resources
+F:\e payment - C\Result\obj\Debug\Result.PAYMENT_2.resources
+F:\e payment - C\Result\obj\Debug\Result.last.resources
+F:\e payment - C\Result\obj\Debug\Result.search.resources
+F:\e payment - C\Result\obj\Debug\Result.SplashScreen1.resources
+F:\e payment - C\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+F:\e payment - C\Result\obj\Debug\Result.exe.manifest
+F:\e payment - C\Result\obj\Debug\Result.application
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.exe.config
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.exe.manifest
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.application
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\bin\Debug\Result.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.ADDITION.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.AddUser.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.Admin.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.CourseReg.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.examcom.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.Login.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.LoginForm1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.Resources.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.NewStudent.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.PAYMENT_2.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.last.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.search.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.SplashScreen1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.vbproj.GenerateResource.Cache
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.exe.manifest
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.application
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\e payment - C\Result\obj\Debug\Result.vbprojResolveAssemblyReference.cache
